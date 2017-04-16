@@ -1,5 +1,32 @@
+# INDEX #
+[Judul Program](https://github.com/armyids/WSPMaster#wsp-version-001-beta)
+
+[Fitur Program](https://github.com/armyids/WSPMaster#fitur)
+
+[Software Pendukung](https://github.com/armyids/WSPMaster#software-pendukung-yang-harus-diinstall)
+
+[Instalasi Utama Windows](https://github.com/armyids/WSPMaster#instalasi-utama-windows)
+
+[Instalasi Utama Linux](https://github.com/armyids/WSPMaster#instalasi-utama-linux-debian)
+
+[Video Panduan](https://github.com/armyids/WSPMaster#video-panduan)
+
+[Instalasi Tambahan](https://github.com/armyids/WSPMaster#instalasi-tambahan)
+
+[Cara Menjalankan WSP](https://github.com/armyids/WSPMaster#cara-menjalankan)
+
+[Update Program](https://github.com/armyids/WSPMaster#update)
+
+[Credits](https://github.com/armyids/WSPMaster#credits)
+
+[Contributor Script](https://github.com/armyids/WSPMaster#contributors-script)
+
+[Kontak Dan Saran](https://github.com/armyids/WSPMaster#kontak-dan-saran)
+
+[Disclaimer](https://github.com/armyids/WSPMaster#disclaimer)
+
 # WSP Version 0.0.1 Beta #
-WSP merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, Daerah Aliran Sungai (Watershed), dan slope.
+WSP (Water Sedimentation Prediction) merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, Daerah Aliran Sungai (Watershed), dan slope.
 
 # Fitur #
 - [x] Menghitung Erosi Tanah Akibat Percikan Air (Water Splash Erosion)
