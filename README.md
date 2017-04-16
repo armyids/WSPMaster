@@ -1,29 +1,29 @@
 # INDEX #
-[Judul Program](https://github.com/armyids/WSPMaster#wsp-version-001-beta)
+[1. Judul Program](https://github.com/armyids/WSPMaster#wsp-version-001-beta)
 
-[Fitur Program](https://github.com/armyids/WSPMaster#fitur)
+[2. Fitur Program](https://github.com/armyids/WSPMaster#fitur)
 
-[Software Pendukung](https://github.com/armyids/WSPMaster#software-pendukung-yang-harus-diinstall)
+[3. Software Pendukung](https://github.com/armyids/WSPMaster#software-pendukung-yang-harus-diinstall)
 
-[Instalasi Utama Windows](https://github.com/armyids/WSPMaster#instalasi-utama-windows)
+[4. Instalasi Utama Windows](https://github.com/armyids/WSPMaster#instalasi-utama-windows)
 
-[Instalasi Utama Linux](https://github.com/armyids/WSPMaster#instalasi-utama-linux-debian)
+[5. Instalasi Utama Linux](https://github.com/armyids/WSPMaster#instalasi-utama-linux-debian)
 
-[Video Panduan](https://github.com/armyids/WSPMaster#video-panduan)
+[6. Video Panduan](https://github.com/armyids/WSPMaster#video-panduan)
 
-[Instalasi Tambahan](https://github.com/armyids/WSPMaster#instalasi-tambahan)
+[7. Instalasi Tambahan](https://github.com/armyids/WSPMaster#instalasi-tambahan)
 
-[Cara Menjalankan WSP](https://github.com/armyids/WSPMaster#cara-menjalankan)
+[8. Cara Menjalankan WSP](https://github.com/armyids/WSPMaster#cara-menjalankan)
 
-[Update Program](https://github.com/armyids/WSPMaster#update)
+[9. Update Program](https://github.com/armyids/WSPMaster#update)
 
-[Credits](https://github.com/armyids/WSPMaster#credits)
+[10. Credits](https://github.com/armyids/WSPMaster#credits)
 
-[Contributor Script](https://github.com/armyids/WSPMaster#contributors-script)
+[11. Contributor Script](https://github.com/armyids/WSPMaster#contributors-script)
 
-[Kontak Dan Saran](https://github.com/armyids/WSPMaster#kontak-dan-saran)
+[12. Kontak Dan Saran](https://github.com/armyids/WSPMaster#kontak-dan-saran)
 
-[Disclaimer](https://github.com/armyids/WSPMaster#disclaimer)
+[13. Disclaimer](https://github.com/armyids/WSPMaster#disclaimer)
 
 # WSP Version 0.0.1 Beta #
 WSP (Water Sedimentation Prediction) merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, Daerah Aliran Sungai (Watershed), dan slope.
