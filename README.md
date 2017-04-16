@@ -2,7 +2,7 @@
 WSP merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, Daerah Aliran Sungai (Watershed), dan slope.
 
 # Fitur #
-- [x] Menghitung Erosi Akibat Percikan Air (Water Splash Erosion)
+- [x] Menghitung Erosi Tanah Akibat Percikan Air (Water Splash Erosion)
 - [x] Menghitung Erosi Akibat Runoff Pada Permukaan Tanah (Rill and Sheet Erosion)
 - [x] Menghitung Laju Pengendapan (Deposition Rate) 
 - [x] Menghitung Transport Sediment
