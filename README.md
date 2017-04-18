@@ -26,7 +26,7 @@
 [13. Disclaimer](https://github.com/armyids/WSPMaster#disclaimer)
 
 # WSP Version 0.0.1 Beta #
-WSP (Water Sedimentation Prediction) merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, Daerah Aliran Sungai (Watershed), dan slope.
+WSP (Water Sedimentation Prediction) merupakan auto bash / shell script yang dibuat dengan tujuan untuk menghitung besarnya erosi akibat percikan air (water splash erosion), erosi pada permukaan tanah (rill and sheet erosion), laju pengendapan (deposition rate), serta transport sediment pada suatu area, daerah aliran sungai (Watershed), dan slope.
 
 # Fitur #
 - [x] Menghitung Erosi Tanah Akibat Percikan Air (Water Splash Erosion)
@@ -55,17 +55,17 @@ Kemudian clone WSPMaster di folder yang diinginkan
 - git clone -b master https://github.com/armyids/WPSMaster && cd WSPMaster && chmod 755 *.sh
 
 # Video Panduan #
-- Install Git Bash, Python 2.7.x, Clone WPSMaster
+- Install Git Bash
 
-[![Install Git Bash](http://img.youtube.com/vi/U1dOJsD0gWY/0.jpg)](http://www.youtube.com/watch?v=U1dOJsD0gWY)
+[![Install Git Bash](http://img.youtube.com/vi/U1dOJsD0gWY/0.jpg)](LINK N/A)
 
-- Install Git Bash, Python 2.7.x, Clone WPSMaster
+- Install Python 2.7.x
 
-[![Install Python 2.7.x](http://img.youtube.com/vi/Myp9nNOcHIc/0.jpg)](http://www.youtube.com/watch?v=Myp9nNOcHIc)
+[![Install Python 2.7.x](http://img.youtube.com/vi/Myp9nNOcHIc/0.jpg)](LINK N/A)
 
-- Install Git Bash, Python 2.7.x, Clone WPSMaster
+- Install Clone WPSMaster
 
-[![Git Clone WPSMaster](http://img.youtube.com/vi/iPdawz6GqAY/0.jpg)](http://www.youtube.com/watch?v=iPdawz6GqAY)
+[![Git Clone WPSMaster](http://img.youtube.com/vi/iPdawz6GqAY/0.jpg)](LINK N/A)
 
 # Instalasi Tambahan #
 - Windows : Jalankan file `install_windows.sh`
@@ -88,4 +88,4 @@ Untuk update, buka git bash here di folder WSPMaster, kemudian masukkan command 
 Kontak, saran, pendapat dan lain-lain bisa menghubungi kami di http://sipil.ft.unsoed.ac.id/
  
 # Disclaimer #
-Saya selaku penanggungjawab script menyatakan 'Tidak ada backdoor, file, command, virus atau program jahat yang membahayakan di dalam script'
+Saya selaku penanggungjawab script menyatakan 'Tidak ada backdoor, file, command, virus atau program jahat yang membahayakan di dalam script.'
