@@ -57,15 +57,15 @@ Kemudian clone WSPMaster di folder yang diinginkan
 # Video Panduan #
 - Install Git Bash
 
-[![Install Git Bash](http://img.youtube.com/vi/U1dOJsD0gWY/0.jpg)](LINK N/A)
+[![Install Git Bash](LINK IMG)](LINK VID)
 
 - Install Python 2.7.x
 
-[![Install Python 2.7.x](http://img.youtube.com/vi/Myp9nNOcHIc/0.jpg)](LINK N/A)
+[![Install Python 2.7.x](LINK IMG)](LINK VID)
 
 - Install Clone WPSMaster
 
-[![Git Clone WPSMaster](http://img.youtube.com/vi/iPdawz6GqAY/0.jpg)](LINK N/A)
+[![Git Clone WPSMaster](LINK IMG)](LINK VID)
 
 # Instalasi Tambahan #
 - Windows : Jalankan file `install_windows.sh`
